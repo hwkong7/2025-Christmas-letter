@@ -1,4 +1,6 @@
 # 2025 Christmas letter
+<img width="1156" height="2114" alt="Frame 2-1" src="https://github.com/user-attachments/assets/67baf2e5-d06c-41a3-a5af-8dd6cb6866d7" />
+
 ![Frame 2](https://github.com/user-attachments/assets/fe0e36a1-d91a-4fef-85a0-49fc10daf873)
 <svg width="225" height="413" viewBox="0 0 225 413" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <rect width="225" height="413" rx="15" fill="#A8C3E1"/>
